@@ -1,11 +1,26 @@
-<h1 align="center">Hi there 👋, I'm Rajat Kulkarni</h1>
-<h3 align="center">✨ Software Engineer | Full Stack Developer | Machine Learning Enthusiast ✨</h3>
+<h1>Hi there 👋, I'm Rajat</h1> 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Fulltime+Leetcoder!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Job%20Hunting-red?style=for-the-badge" alt="Job Hunting"/>
+  <img src="https://img.shields.io/badge/Leetcoder-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="Leetcoder-Badge"/>
+  <img src="https://img.shields.io/badge/Night%20Owl%20Coder-2C2F33?style=for-the-badge" alt="Night-Owl"/>
+  <img src="https://img.shields.io/badge/Bug%20Fixer%20Extraordinaire-FB7185?style=for-the-badge&logo=codeforces&logoColor=white" alt="Bug-Fixer"/>
+  <img src="https://img.shields.io/badge/Available%20for%20Hire-32CD32?style=for-the-badge" alt="Available-for-hire"/>
+</p>
 
 - 🌱 I recently graduated from **UC Irvine with a Master’s in Computer Science**.
 - 💻 I am passionate for **Full Stack Development**, **Data Engineering**, and **Machine Learning (genAI!)**.
-- 🌟 I love creating innovative software solutions and seamless user experiences.
+- 🌟 I love building stuff!
 - 📫 Reach me at: [rajat.kulkarni017@gmail.com](mailto:rajat.kulkarni017@gmail.com)
+---
+### 👀 Hey Recruiter, I’m Grinding Hard, I Promise!
+- 🏗️ Currently **building cool projects**, applying to jobs, and **learning new tech** at the speed of light.  
+- 📬 **Send me an interview invite! If you like what you see** *(Response time: Faster than Instagram DM)*  
+- 🤝 **Let’s chat!** I’d love to discuss how I can contribute to your team.
+- 🤖 **This is NOT written by AI.** (*Source - Trust me, Bro!*) 
+
 ---
 ### 🛠 Tech Stack
 
@@ -38,15 +53,26 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-%235C2D91?style=flat&logo=visual-studio&logoColor=white)
 
 ---
+<h3 align="center">Languages I have used here!</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-k1&layout=pie&theme=algolia&hide_title=true" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rajat-k1&layout=compact&theme=algolia)
 
-### 🌍 Connect with me:
+### 🌍 Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/cs-rajat-kulkarni)
 [![Email](https://img.shields.io/badge/Email-%23EA4335?style=flat&logo=gmail&logoColor=white)](mailto:krajat1703@hotmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000?style=flat&logo=github&logoColor=white)](https://rajatk.me)
+[![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat&logo=github&logoColor=white)](https://github.com/rajat-k1)
 
+### 👀 People Who Regret Not Hiring Me:
 ![Profile Views](https://komarev.com/ghpvc/?username=rajat-k1&color=blue&style=for-the-badge)
+
+### 🎯 Let’s Build Something Awesome!
+💡 Whether it's **collaborating on projects, discussing AI, or just talking tech**, I'm always up for a chat!  
+📬 **Drop me a message, and let’s connect!**  
+
 
 <!--
 **rajat-k1/rajat-k1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
